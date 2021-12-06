@@ -10,9 +10,11 @@
 - 💬 Ask me about Anything you want~
 - 📫 掘金个人地址: https://juejin.cn/user/1591748569600904
 - 😄 Pronouns: vben
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/anncwb?label=follow%20me&style=social)](https://github.com/anncwb/)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/pyh996?label=follow%20me&style=social)](https://github.com/pyh996/)
  
 
-![](https://activity-graph.herokuapp.com/graph?username=anncwb&theme=redical)
 
-  
+|![Vben's github stats](https://github-readme-stats.vercel.app/api?username=anncwb&show_icons=true&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anncwb&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
+
+
